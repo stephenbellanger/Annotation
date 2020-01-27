@@ -13,3 +13,5 @@ F
 app/app.iml,7/c/7c1d2a1927c01fa75a9b4c74ea8addcc06b327ae
 D
 processor/.gitignore,f/5/f55912559508848498c15cc9d1560df0112d1d43
+u
+Eprocessor/src/main/java/com/sbellanger/processor/GenerateProcessor.kt,0/0/00aa9a9eab45ccd33a6a99971261dbec92952b14
